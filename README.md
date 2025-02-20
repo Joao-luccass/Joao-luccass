@@ -4,6 +4,8 @@
 
 ![Joao-luccass GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-luccass&show_icons=true&theme=dracula)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
 ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
