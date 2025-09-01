@@ -10,7 +10,7 @@
 
 ##        
  
-![Joao-luccass GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-luccass&show_icons=true&theme=dracula)
+![Joao-luccass GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-luccass&show_icons=true&theme=dracula&count_private=true)
 
 
 
