@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">## 👋 Hello! I'm João Lucas<br><br>💻 Full Stack Developer passionate about technology  <br>🎯 Currently focused on JavaScript and learning React  <br>🌱 Always looking to improve and learn new tools & best practices</p>
+<p align="left">👋 Hello! I'm João Lucas<br><br>💻 Full Stack Developer passionate about technology  <br>🎯 Currently focused on JavaScript and learning React  <br>🌱 Always looking to improve and learn new tools & best practices</p>
 
 ###
 
