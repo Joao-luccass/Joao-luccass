@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello! I'm João Lucas<br><br>💻 Full Stack Developer passionate about technology  <br>🎯 Currently focused on JavaScript and learning React <br>🚀 I enjoy turning ideas into real, functional applications <br>🌱 Always looking to improve and learn new tools & best practices</p>
+<p align="left">👋 Olá! Meu nome é João Lucas<br><br>💻 Desenvolvedor Full Stack apaixonado por tecnologia<br>🎯 Atualmente focado em React e aprendendo Java<br>🚀 Gosto de transformar ideias em aplicações reais e funcionais<br>🌱 Sempre buscando aprimorar e aprender novas ferramentas e boas práticas</p>
 
 ###
 
